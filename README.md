@@ -1,4 +1,4 @@
-  🚀 Semana Omnistack 11.0
+#  🚀 Semana Omnistack 11.0
 </h2>
 
 <p align="center">
@@ -31,3 +31,5 @@ Extras:
 ## 💻 Projeto
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
+
+![BeTheHero](https://github.com/Guilherme775/BeTheHero/blob/master/frontend/src/assets/BeTheHero.PNG)
